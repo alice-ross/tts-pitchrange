@@ -1,0 +1,375 @@
+H01_01		The idea is to sew both edges straight.
+H02_300		Pages bound in cloth make a book.
+H03_150		A salt pickle tastes fine with ham.
+H04_100		Women form less than half of the group.
+H05_50		Bring your problems to the wise chief.
+H06_01		Try to trace the fine lines of the painting.
+H07_300		The glow deepened in the eyes of the sweet girl. 
+H08_150		The spot on the blotter was made by green ink.
+H09_100		The box is held by a bright red snapper.
+H10_50		Guess the results from the first scores.
+H11_01		We frown when events take a bad turn.
+H12_300		The birch looked stark white and lonesome.
+H13_150		The just claim got the right verdict.
+H14_100		The kitten chased the dog down the street.
+H15_50		A cramp is no small danger on a swim.
+H16_01		The play began as soon as we sat down.
+H17_300		Code is used when secrets are sent.
+H18_150		Nine rows of soldiers stood in line.
+H19_100		He said the same phrase thirty times. 
+H20_50		Pure bred poodles have curls.
+H21_01		The zones merge in the central part of town.
+H22_300		Write a fond note to the friend you cherish.
+H23_150		The tree top waved in a graceful way.
+H24_100		The cigar burned a hole in the desk top.
+H25_50		Clothes and lodging are free to new men.
+H01_50		The idea is to sew both edges straight.
+H02_01		Pages bound in cloth make a book.
+H03_300		A salt pickle tastes fine with ham.
+H04_150		Women form less than half of the group.
+H05_100		Bring your problems to the wise chief.
+H06_50		Try to trace the fine lines of the painting.
+H07_01		The glow deepened in the eyes of the sweet girl. 
+H08_300		The spot on the blotter was made by green ink.
+H09_150		The box is held by a bright red snapper.
+H10_100		Guess the results from the first scores.
+H11_50		We frown when events take a bad turn.
+H12_01		The birch looked stark white and lonesome.
+H13_300		The just claim got the right verdict.
+H14_150		The kitten chased the dog down the street.
+H15_100		A cramp is no small danger on a swim.
+H16_50		The play began as soon as we sat down.
+H17_01		Code is used when secrets are sent.
+H18_300		Nine rows of soldiers stood in line.
+H19_150		He said the same phrase thirty times. 
+H20_100		Pure bred poodles have curls.
+H21_50		The zones merge in the central part of town.
+H22_01		Write a fond note to the friend you cherish.
+H23_300		The tree top waved in a graceful way.
+H24_150		The cigar burned a hole in the desk top.
+H25_100		Clothes and lodging are free to new men.
+H01_100		The idea is to sew both edges straight.
+H02_50		Pages bound in cloth make a book.
+H03_01		A salt pickle tastes fine with ham.
+H04_300		Women form less than half of the group.
+H05_150		Bring your problems to the wise chief.
+H06_100		Try to trace the fine lines of the painting.
+H07_50		The glow deepened in the eyes of the sweet girl. 
+H08_01		The spot on the blotter was made by green ink.
+H09_300		The box is held by a bright red snapper.
+H10_150		Guess the results from the first scores.
+H11_100		We frown when events take a bad turn.
+H12_50		The birch looked stark white and lonesome.
+H13_01		The just claim got the right verdict.
+H14_300		The kitten chased the dog down the street.
+H15_150		A cramp is no small danger on a swim.
+H16_100		The play began as soon as we sat down.
+H17_50		Code is used when secrets are sent.
+H18_01		Nine rows of soldiers stood in line.
+H19_300		He said the same phrase thirty times. 
+H20_150		Pure bred poodles have curls.
+H21_100		The zones merge in the central part of town.
+H22_50		Write a fond note to the friend you cherish.
+H23_01		The tree top waved in a graceful way.
+H24_300		The cigar burned a hole in the desk top.
+H25_150		Clothes and lodging are free to new men.
+H01_150		The idea is to sew both edges straight.
+H02_100		Pages bound in cloth make a book.
+H03_50		A salt pickle tastes fine with ham.
+H04_01		Women form less than half of the group.
+H05_300		Bring your problems to the wise chief.
+H06_150		Try to trace the fine lines of the painting.
+H07_100		The glow deepened in the eyes of the sweet girl. 
+H08_50		The spot on the blotter was made by green ink.
+H09_01		The box is held by a bright red snapper.
+H10_300		Guess the results from the first scores.
+H11_150		We frown when events take a bad turn.
+H12_100		The birch looked stark white and lonesome.
+H13_50		The just claim got the right verdict.
+H14_01		The kitten chased the dog down the street.
+H15_300		A cramp is no small danger on a swim.
+H16_150		The play began as soon as we sat down.
+H17_100		Code is used when secrets are sent.
+H18_50		Nine rows of soldiers stood in line.
+H19_01		He said the same phrase thirty times. 
+H20_300		Pure bred poodles have curls.
+H21_150		The zones merge in the central part of town.
+H22_100		Write a fond note to the friend you cherish.
+H23_50		The tree top waved in a graceful way.
+H24_01		The cigar burned a hole in the desk top.
+H25_300		Clothes and lodging are free to new men.
+H01_300		The idea is to sew both edges straight.
+H02_150		Pages bound in cloth make a book.
+H03_100		A salt pickle tastes fine with ham.
+H04_50		Women form less than half of the group.
+H05_01		Bring your problems to the wise chief.
+H06_300		Try to trace the fine lines of the painting.
+H07_150		The glow deepened in the eyes of the sweet girl. 
+H08_100		The spot on the blotter was made by green ink.
+H09_50		The box is held by a bright red snapper.
+H10_01		Guess the results from the first scores.
+H11_300		We frown when events take a bad turn.
+H12_150		The birch looked stark white and lonesome.
+H13_100		The just claim got the right verdict.
+H14_50		The kitten chased the dog down the street.
+H15_01		A cramp is no small danger on a swim.
+H16_300		The play began as soon as we sat down.
+H17_150		Code is used when secrets are sent.
+H18_100		Nine rows of soldiers stood in line.
+H19_50		He said the same phrase thirty times. 
+H20_01		Pure bred poodles have curls.
+H21_300		The zones merge in the central part of town.
+H22_150		Write a fond note to the friend you cherish.
+H23_100		The tree top waved in a graceful way.
+H24_50		The cigar burned a hole in the desk top.
+H25_01		Clothes and lodging are free to new men.
+M01_01		The idea is to sew both edges straight.
+M02_300		Pages bound in cloth make a book.
+M03_150		A salt pickle tastes fine with ham.
+M04_100		Women form less than half of the group.
+M05_50		Bring your problems to the wise chief.
+M06_01		Try to trace the fine lines of the painting.
+M07_300		The glow deepened in the eyes of the sweet girl. 
+M08_150		The spot on the blotter was made by green ink.
+M09_100		The box is held by a bright red snapper.
+M10_50		Guess the results from the first scores.
+M11_01		We frown when events take a bad turn.
+M12_300		The birch looked stark white and lonesome.
+M13_150		The just claim got the right verdict.
+M14_100		The kitten chased the dog down the street.
+M15_50		A cramp is no small danger on a swim.
+M16_01		The play began as soon as we sat down.
+M17_300		Code is used when secrets are sent.
+M18_150		Nine rows of soldiers stood in line.
+M19_100		He said the same phrase thirty times. 
+M20_50		Pure bred poodles have curls.
+M21_01		The zones merge in the central part of town.
+M22_300		Write a fond note to the friend you cherish.
+M23_150		The tree top waved in a graceful way.
+M24_100		The cigar burned a hole in the desk top.
+M25_50		Clothes and lodging are free to new men.
+M01_50		The idea is to sew both edges straight.
+M02_01		Pages bound in cloth make a book.
+M03_300		A salt pickle tastes fine with ham.
+M04_150		Women form less than half of the group.
+M05_100		Bring your problems to the wise chief.
+M06_50		Try to trace the fine lines of the painting.
+M07_01		The glow deepened in the eyes of the sweet girl. 
+M08_300		The spot on the blotter was made by green ink.
+M09_150		The box is held by a bright red snapper.
+M10_100		Guess the results from the first scores.
+M11_50		We frown when events take a bad turn.
+M12_01		The birch looked stark white and lonesome.
+M13_300		The just claim got the right verdict.
+M14_150		The kitten chased the dog down the street.
+M15_100		A cramp is no small danger on a swim.
+M16_50		The play began as soon as we sat down.
+M17_01		Code is used when secrets are sent.
+M18_300		Nine rows of soldiers stood in line.
+M19_150		He said the same phrase thirty times. 
+M20_100		Pure bred poodles have curls.
+M21_50		The zones merge in the central part of town.
+M22_01		Write a fond note to the friend you cherish.
+M23_300		The tree top waved in a graceful way.
+M24_150		The cigar burned a hole in the desk top.
+M25_100		Clothes and lodging are free to new men.
+M01_100		The idea is to sew both edges straight.
+M02_50		Pages bound in cloth make a book.
+M03_01		A salt pickle tastes fine with ham.
+M04_300		Women form less than half of the group.
+M05_150		Bring your problems to the wise chief.
+M06_100		Try to trace the fine lines of the painting.
+M07_50		The glow deepened in the eyes of the sweet girl. 
+M08_01		The spot on the blotter was made by green ink.
+M09_300		The box is held by a bright red snapper.
+M10_150		Guess the results from the first scores.
+M11_100		We frown when events take a bad turn.
+M12_50		The birch looked stark white and lonesome.
+M13_01		The just claim got the right verdict.
+M14_300		The kitten chased the dog down the street.
+M15_150		A cramp is no small danger on a swim.
+M16_100		The play began as soon as we sat down.
+M17_50		Code is used when secrets are sent.
+M18_01		Nine rows of soldiers stood in line.
+M19_300		He said the same phrase thirty times. 
+M20_150		Pure bred poodles have curls.
+M21_100		The zones merge in the central part of town.
+M22_50		Write a fond note to the friend you cherish.
+M23_01		The tree top waved in a graceful way.
+M24_300		The cigar burned a hole in the desk top.
+M25_150		Clothes and lodging are free to new men.
+M01_150		The idea is to sew both edges straight.
+M02_100		Pages bound in cloth make a book.
+M03_50		A salt pickle tastes fine with ham.
+M04_01		Women form less than half of the group.
+M05_300		Bring your problems to the wise chief.
+M06_150		Try to trace the fine lines of the painting.
+M07_100		The glow deepened in the eyes of the sweet girl. 
+M08_50		The spot on the blotter was made by green ink.
+M09_01		The box is held by a bright red snapper.
+M10_300		Guess the results from the first scores.
+M11_150		We frown when events take a bad turn.
+M12_100		The birch looked stark white and lonesome.
+M13_50		The just claim got the right verdict.
+M14_01		The kitten chased the dog down the street.
+M15_300		A cramp is no small danger on a swim.
+M16_150		The play began as soon as we sat down.
+M17_100		Code is used when secrets are sent.
+M18_50		Nine rows of soldiers stood in line.
+M19_01		He said the same phrase thirty times. 
+M20_300		Pure bred poodles have curls.
+M21_150		The zones merge in the central part of town.
+M22_100		Write a fond note to the friend you cherish.
+M23_50		The tree top waved in a graceful way.
+M24_01		The cigar burned a hole in the desk top.
+M25_300		Clothes and lodging are free to new men.
+M01_300		The idea is to sew both edges straight.
+M02_150		Pages bound in cloth make a book.
+M03_100		A salt pickle tastes fine with ham.
+M04_50		Women form less than half of the group.
+M05_01		Bring your problems to the wise chief.
+M06_300		Try to trace the fine lines of the painting.
+M07_150		The glow deepened in the eyes of the sweet girl. 
+M08_100		The spot on the blotter was made by green ink.
+M09_50		The box is held by a bright red snapper.
+M10_01		Guess the results from the first scores.
+M11_300		We frown when events take a bad turn.
+M12_150		The birch looked stark white and lonesome.
+M13_100		The just claim got the right verdict.
+M14_50		The kitten chased the dog down the street.
+M15_01		A cramp is no small danger on a swim.
+M16_300		The play began as soon as we sat down.
+M17_150		Code is used when secrets are sent.
+M18_100		Nine rows of soldiers stood in line.
+M19_50		He said the same phrase thirty times. 
+M20_01		Pure bred poodles have curls.
+M21_300		The zones merge in the central part of town.
+M22_150		Write a fond note to the friend you cherish.
+M23_100		The tree top waved in a graceful way.
+M24_50		The cigar burned a hole in the desk top.
+M25_01		Clothes and lodging are free to new men.
+S01_01		The idea is to sew both edges straight.
+S02_300		Pages bound in cloth make a book.
+S03_150		A salt pickle tastes fine with ham.
+S04_100		Women form less than half of the group.
+S05_50		Bring your problems to the wise chief.
+S06_01		Try to trace the fine lines of the painting.
+S07_300		The glow deepened in the eyes of the sweet girl. 
+S08_150		The spot on the blotter was made by green ink.
+S09_100		The box is held by a bright red snapper.
+S10_50		Guess the results from the first scores.
+S11_01		We frown when events take a bad turn.
+S12_300		The birch looked stark white and lonesome.
+S13_150		The just claim got the right verdict.
+S14_100		The kitten chased the dog down the street.
+S15_50		A cramp is no small danger on a swim.
+S16_01		The play began as soon as we sat down.
+S17_300		Code is used when secrets are sent.
+S18_150		Nine rows of soldiers stood in line.
+S19_100		He said the same phrase thirty times. 
+S20_50		Pure bred poodles have curls.
+S21_01		The zones merge in the central part of town.
+S22_300		Write a fond note to the friend you cherish.
+S23_150		The tree top waved in a graceful way.
+S24_100		The cigar burned a hole in the desk top.
+S25_50		Clothes and lodging are free to new men.
+S01_50		The idea is to sew both edges straight.
+S02_01		Pages bound in cloth make a book.
+S03_300		A salt pickle tastes fine with ham.
+S04_150		Women form less than half of the group.
+S05_100		Bring your problems to the wise chief.
+S06_50		Try to trace the fine lines of the painting.
+S07_01		The glow deepened in the eyes of the sweet girl. 
+S08_300		The spot on the blotter was made by green ink.
+S09_150		The box is held by a bright red snapper.
+S10_100		Guess the results from the first scores.
+S11_50		We frown when events take a bad turn.
+S12_01		The birch looked stark white and lonesome.
+S13_300		The just claim got the right verdict.
+S14_150		The kitten chased the dog down the street.
+S15_100		A cramp is no small danger on a swim.
+S16_50		The play began as soon as we sat down.
+S17_01		Code is used when secrets are sent.
+S18_300		Nine rows of soldiers stood in line.
+S19_150		He said the same phrase thirty times. 
+S20_100		Pure bred poodles have curls.
+S21_50		The zones merge in the central part of town.
+S22_01		Write a fond note to the friend you cherish.
+S23_300		The tree top waved in a graceful way.
+S24_150		The cigar burned a hole in the desk top.
+S25_100		Clothes and lodging are free to new men.
+S01_100		The idea is to sew both edges straight.
+S02_50		Pages bound in cloth make a book.
+S03_01		A salt pickle tastes fine with ham.
+S04_300		Women form less than half of the group.
+S05_150		Bring your problems to the wise chief.
+S06_100		Try to trace the fine lines of the painting.
+S07_50		The glow deepened in the eyes of the sweet girl. 
+S08_01		The spot on the blotter was made by green ink.
+S09_300		The box is held by a bright red snapper.
+S10_150		Guess the results from the first scores.
+S11_100		We frown when events take a bad turn.
+S12_50		The birch looked stark white and lonesome.
+S13_01		The just claim got the right verdict.
+S14_300		The kitten chased the dog down the street.
+S15_150		A cramp is no small danger on a swim.
+S16_100		The play began as soon as we sat down.
+S17_50		Code is used when secrets are sent.
+S18_01		Nine rows of soldiers stood in line.
+S19_300		He said the same phrase thirty times. 
+S20_150		Pure bred poodles have curls.
+S21_100		The zones merge in the central part of town.
+S22_50		Write a fond note to the friend you cherish.
+S23_01		The tree top waved in a graceful way.
+S24_300		The cigar burned a hole in the desk top.
+S25_150		Clothes and lodging are free to new men.
+S01_150		The idea is to sew both edges straight.
+S02_100		Pages bound in cloth make a book.
+S03_50		A salt pickle tastes fine with ham.
+S04_01		Women form less than half of the group.
+S05_300		Bring your problems to the wise chief.
+S06_150		Try to trace the fine lines of the painting.
+S07_100		The glow deepened in the eyes of the sweet girl. 
+S08_50		The spot on the blotter was made by green ink.
+S09_01		The box is held by a bright red snapper.
+S10_300		Guess the results from the first scores.
+S11_150		We frown when events take a bad turn.
+S12_100		The birch looked stark white and lonesome.
+S13_50		The just claim got the right verdict.
+S14_01		The kitten chased the dog down the street.
+S15_300		A cramp is no small danger on a swim.
+S16_150		The play began as soon as we sat down.
+S17_100		Code is used when secrets are sent.
+S18_50		Nine rows of soldiers stood in line.
+S19_01		He said the same phrase thirty times. 
+S20_300		Pure bred poodles have curls.
+S21_150		The zones merge in the central part of town.
+S22_100		Write a fond note to the friend you cherish.
+S23_50		The tree top waved in a graceful way.
+S24_01		The cigar burned a hole in the desk top.
+S25_300		Clothes and lodging are free to new men.
+S01_300		The idea is to sew both edges straight.
+S02_150		Pages bound in cloth make a book.
+S03_100		A salt pickle tastes fine with ham.
+S04_50		Women form less than half of the group.
+S05_01		Bring your problems to the wise chief.
+S06_300		Try to trace the fine lines of the painting.
+S07_150		The glow deepened in the eyes of the sweet girl. 
+S08_100		The spot on the blotter was made by green ink.
+S09_50		The box is held by a bright red snapper.
+S10_01		Guess the results from the first scores.
+S11_300		We frown when events take a bad turn.
+S12_150		The birch looked stark white and lonesome.
+S13_100		The just claim got the right verdict.
+S14_50		The kitten chased the dog down the street.
+S15_01		A cramp is no small danger on a swim.
+S16_300		The play began as soon as we sat down.
+S17_150		Code is used when secrets are sent.
+S18_100		Nine rows of soldiers stood in line.
+S19_50		He said the same phrase thirty times. 
+S20_01		Pure bred poodles have curls.
+S21_300		The zones merge in the central part of town.
+S22_150		Write a fond note to the friend you cherish.
+S23_100		The tree top waved in a graceful way.
+S24_50		The cigar burned a hole in the desk top.
+S25_01		Clothes and lodging are free to new men.
